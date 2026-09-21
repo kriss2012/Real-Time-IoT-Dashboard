@@ -1,0 +1,13 @@
+
+
+# Standards & hygiene
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
